@@ -52,7 +52,7 @@ The backend is a FastAPI application that provides the RAG functionality. It is 
    Create a `.env` file in the root directory:
 
    ```env
-BACKEND_URL=http://localhost:8000
+   BACKEND_URL=http://localhost:8000
    ```
 
    The backend URL defaults to `http://localhost:8000` if not specified.
